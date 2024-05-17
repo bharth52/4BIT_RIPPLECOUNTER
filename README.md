@@ -1,3 +1,4 @@
+AIM
 # 4BIT_RIPPLECOUNTER
 # Circuit Diagram
 ![image](https://github.com/RESMIRNAIR/4BIT_RIPPLECOUNTER/assets/154305926/324dfe68-4985-401a-9f0c-7df90b08265e)
